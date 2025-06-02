@@ -1,0 +1,11 @@
+student_name,math_score,science_score,age,student_info
+Alice,88.0,90,23,"Alice,Female,Grade A"
+Bob,92.0,85,25,"Bob,Male,Grade B"
+Charlie,,87,22,"Charlie,Male,Grade A"
+David,79.0,,24,"David,Male,Grade C"
+Eva,85.0,80,21,"Eva,Female,Grade B"
+Frank,90.0,,26,"Frank,Male,Grade A"
+Grace,,88,22,"Grace,Female,Grade C"
+,70.0,82,,"NoName,,"
+Helen,78.0,,23,"Helen,Female,Grade A"
+Ian,91.0,89,24,"Ian,Male,Grade B"
