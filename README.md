@@ -22,4 +22,4 @@ This project is a **basic data manipulation example** using a fictional student 
 
 ## 🔗 Notebook Structure
 
-The **code explained step by step** below, with outputs and results
+The **code explained step by step**, with outputs and results.
